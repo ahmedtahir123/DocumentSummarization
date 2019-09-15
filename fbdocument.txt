@@ -1,0 +1,37 @@
+On Jan. 4, 2018, Facebook CEO Mark Zuckerberg posted his New Year's resolution, vowing to fix Facebook's various issues with abuse, election interference and misinformation campaigns. But a timeline of events since then shows a bevy of Facebook security and data privacy issues.
+
+In February 2018, Facebook was found guilty in German and Belgian courts of violating privacy laws. Later in the same month, Facebook claimed a bug led to engagement notifications being texted to users based on the phone number submitted for Facebook's two-factor authentication (2FA). The social media giant later admitted it did, in fact, harvest 2FA numbers for advertising purposes.
+
+But it's the Cambridge Analytica scandal, which broke on March 19, 2018, that is considered the beginning of Facebook's security issues.
+
+Cambridge Analytica, a political data analytics firm, used a legitimate app distributed by a third party to harvest Facebook user data. The app was downloaded willingly by 270,000 people. But the access was abused, and data was improperly passed to Cambridge Analytica to build political profiles on more than 50 million users, with the intention of influencing elections around the world.
+
+The scandal spurred investigations into Facebook's data sharing, privacy practices and control over third-party access, including an investigation by the Federal Trade Commission (FTC). The U.S. Department of Justice and the Securities and Exchange Commission also began an investigation with the FTC to determine what Facebook knew about Cambridge Analytica's activity in 2015 and if the company held back on revealing pertinent information.
+
+In an effort to prevent future incidents, Facebook introduced new privacy controls and an expanded bug bounty. The company also jumped out in front of calls for regulating the social network and offered to work with lawmakers on the types of regulation that would be best.
+
+In April 2018, the company admitted the Cambridge Analytica scandal may have involved as many as 87 million people. Following this admission, Zuckerberg testified before Congress and EU lawmakers regarding Facebook security issues.
+
+Additionally, in April 2018, KrebsOnSecurity reported on dozens of Facebook groups openly being used for cybercrime purposes. This Facebook security issue would surface again in April 2019, as Cisco Talos researchers found similar cybercrime groups still operating openly on Facebook, with little action from the social media giant to remove them.
+
+Facebook survived a fairly quiet summer in 2018 before news broke in September that attackers exploited a vulnerability and obtained access tokens for what was first thought to be as many as 50 million accounts. Two weeks later, in October, Facebook updated its findings to clarify that the number of affected users was actually approximately 30 million accounts, and the attackers gained access to data that included contact details, locations, birthdates and search histories. The breach was suspected to be the work of spammers and not nation-state actors.
+
+To close out 2018, in December, a Facebook API bug exposed photos of 6.8 million users. But more damaging was the release of details from internal Facebook email messages.
+
+Facebook was accused of designing its Android app permissions in a way that it obfuscated the fact that the app was gathering user call logs and SMS data from users in 2015 and earlier. Internal Facebook email messages also described whitelisting agreements between Facebook and other companies giving access to certain user data and Facebook implementing data reciprocity agreements with developers.
+
+Starting 2019, Facebook was caught in January exploiting a loophole in Apple's iOS policies and distributing a research app using an enterprise certificate. With this type of certificate, the app was able to gain root access to a user's device and gather information, such as constant location tracking and messages and media from third-party apps. Facebook asserted that all of the users who installed the app did so willingly and downplayed the number of participants using the app who were teenagers.
+
+The incident led to Apple revoking all of Facebook's enterprise certificates, which blocked the research app. But it also meant none of the Facebook apps being developed internally for iOS could be run. Apple later restored Facebook's certificates.
+
+In February 2019, more internal Facebook email messages were leaked and revealed a secret program the company had planned in 2012, which would match the location data from Android users to cell site IDs in order to offer location-aware products. The email messages also detailed Facebook plans to use the Android app to gather intelligence on rival companies, including how rival apps used Facebook.
+
+Zuckerberg finally admitted in March 2019 that his company was failing in terms of protecting user privacy and promised to transform Facebook into a "privacy-focused" platform.
+
+Two weeks later, Facebook disclosed that as many as 600 million Facebook user passwords had been found stored in plaintext. The passwords were reportedly exposed internally for up to seven years. Facebook asserted that the passwords were never visible to anyone outside the company, and it had "found no evidence to date that anyone internally abused or improperly accessed them."
+
+At the time of the initial disclosure, Facebook said the incident only affected tens of thousands of Instagram users, but later revised that number to be in the millions.
+
+To start April 2019, researchers discovered third-party databases containing 146 GB of Facebook data on 540 million users exposed publicly. In the middle of the month, even more confidential documents leaked, detailing discussions among Zuckerberg and Facebook executives planning various ways to monetize user data, including through special deals with big tech companies and restricting competitor access in order to boost revenue, despite claiming it was in efforts to strengthen privacy.
+
+In mid-April, a security researcher noticed Facebook was asking users to provide email passwords and if a user entered the password, Facebook would import the user's contact list without asking permission to do so. Ultimately, Facebook collected contact lists from 1.5 million users. The company claimed the contact data was "unintentionally uploaded to Facebook," but security experts widely criticized the company for asking for email passwords in the first place.
